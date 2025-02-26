@@ -1,0 +1,17 @@
+h1#FM{
+    color: green;
+    font-size: 35px;
+    font-weight: bold;
+    text-align: center;
+    /*heading*/
+}
+p#GJ{
+    color: rgb(20, 220, 47);
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    /*paragraph*/
+}
+a href#SC{
+    text-align: center;
+}
